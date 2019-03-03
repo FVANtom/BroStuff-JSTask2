@@ -5,4 +5,4 @@ firstNumber = parseFloat(firstNumber);
 secondNumber = window.prompt('Enter number 2', '');
 secondNumber = parseFloat(secondNumber);
 answer = firstNumber + secondNumber / 2;
-document.write ('The average of'+ firstNumber + secondNumber +' is ' + answer );
+document.write ('The average of ' + firstNumber + ' and ' + secondNumber + ' is ' + answer );
